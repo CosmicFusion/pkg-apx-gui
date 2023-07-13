@@ -1,6 +1,6 @@
 # Clone Upstream
-git clone https://github.com/Vanilla-OS/apx-gui
-cd ./apx-gui
+git clone https://github.com/Vanilla-OS/apx-gui ./vanilla-apx-gui
+cd ./vanilla-apx-gui
 
 # Get build deps
 apt-get build-dep ./ -y
