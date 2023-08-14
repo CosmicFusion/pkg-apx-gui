@@ -1,3 +1,5 @@
+#! /bin/bash
+
 # Clone Upstream
 git clone https://github.com/Vanilla-OS/apx-gui ./vanilla-apx-gui
 cd ./vanilla-apx-gui
